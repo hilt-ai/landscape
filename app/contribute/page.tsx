@@ -186,7 +186,7 @@ crunchbase: https://crunchbase.com/organization/project`}
       <ContentList
         type="ordered"
         items={[
-          'Clone the repository: git clone https://github.com/isovalent/mktg-ebpf-landscape',
+          'Clone the repository: git clone https://github.com/ebpffoundation/landscape',
           'Install dependencies: npm install',
           'Run the development server: npm run dev',
           'Run tests: npm test',
@@ -221,7 +221,7 @@ crunchbase: https://crunchbase.com/organization/project`}
           Every contribution, no matter how small, helps make the eBPF ecosystem
           more discoverable and accessible.
         </ContentParagraph>
-        <ContentButton href="https://github.com/isovalent/mktg-ebpf-landscape">
+        <ContentButton href="https://github.com/ebpffoundation/landscape">
           Fork on GitHub
         </ContentButton>
       </ContentAlert>

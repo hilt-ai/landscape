@@ -44,7 +44,7 @@ describe('Footer', () => {
     const githubLink = screen.getByRole('link', { name: 'GitHub' });
     expect(githubLink).toHaveAttribute(
       'href',
-      'https://github.com/isovalent/mktg-ebpf-landscape'
+      'https://github.com/ebpffoundation/landscape'
     );
     expect(githubLink).toHaveAttribute('target', '_blank');
   });
@@ -64,7 +64,7 @@ describe('Footer', () => {
     const githubLink = screen.getByLabelText('GitHub repository');
     expect(githubLink).toHaveAttribute(
       'href',
-      'https://github.com/isovalent/mktg-ebpf-landscape'
+      'https://github.com/ebpffoundation/landscape'
     );
     expect(githubLink).toHaveAttribute('target', '_blank');
 

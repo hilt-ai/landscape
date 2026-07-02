@@ -65,7 +65,7 @@ export function Footer({ className = '' }: FooterProps) {
               </li>
               <li>
                 <a
-                  href="https://github.com/isovalent/mktg-ebpf-landscape"
+                  href="https://github.com/ebpffoundation/landscape"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-stone-300 hover:text-white transition-colors text-sm"
@@ -94,7 +94,7 @@ export function Footer({ className = '' }: FooterProps) {
             </div>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a
-                href="https://github.com/isovalent/mktg-ebpf-landscape"
+                href="https://github.com/ebpffoundation/landscape"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-stone-400 hover:text-white transition-colors"

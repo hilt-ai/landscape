@@ -19,6 +19,9 @@ const cspDirectives = [
 ];
 
 const nextConfig: NextConfig = {
+  experimental: {
+    optimizePackageImports: ['hugeicons-react', 'recharts'],
+  },
   async headers() {
     return [
       {
@@ -48,6 +51,11 @@ const nextConfig: NextConfig = {
           {
             key: 'Content-Security-Policy',
             value: cspDirectives.join('; '),
+          },
+          {
+            key: 'X-Robots-Tag',
+            value:
+              'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1',
           },
         ],
       },

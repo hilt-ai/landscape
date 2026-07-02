@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: '%s | eBPF Landscape',
   },
   description:
-    'A comprehensive landscape of eBPF tools, projects, and resources. Discover the ecosystem of eBPF-based solutions for networking, security, observability, and more.',
+    'A comprehensive directory of eBPF tools, projects and companies. Discover the ecosystem spanning networking, observability, security and profiling.',
   keywords: [
     'eBPF',
     'landscape',
@@ -52,13 +52,13 @@ export const metadata: Metadata = {
     siteName: 'eBPF Landscape',
     title: 'eBPF Landscape',
     description:
-      'A comprehensive landscape of eBPF tools, projects, and resources. Discover the ecosystem of eBPF-based solutions.',
+      'A comprehensive directory of eBPF tools, projects and companies spanning networking, observability, security and profiling.',
     images: [
       {
         url: '/social-preview.jpg',
         width: 1200,
         height: 630,
-        alt: 'eBPF Landscape - Comprehensive tools and resources',
+        alt: 'eBPF Landscape - Community directory of eBPF tools and projects',
       },
     ],
   },
@@ -68,7 +68,7 @@ export const metadata: Metadata = {
     creator: '@ebpfio',
     title: 'eBPF Landscape',
     description:
-      'A comprehensive landscape of eBPF tools, projects, and resources. Discover the ecosystem of eBPF-based solutions.',
+      'A comprehensive directory of eBPF tools, projects and companies spanning networking, observability, security and profiling.',
     images: ['/social-preview.jpg'],
   },
   robots: {
@@ -96,6 +96,69 @@ export const metadata: Metadata = {
   },
 };
 
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE_CONFIG.url}/#website`,
+      url: SITE_CONFIG.url,
+      name: SITE_CONFIG.name,
+      description: SITE_CONFIG.description,
+      publisher: {
+        '@type': 'Organization',
+        name: 'eBPF Community',
+        url: 'https://ebpf.io',
+      },
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: {
+          '@type': 'EntryPoint',
+          urlTemplate: `${SITE_CONFIG.url}/?q={search_term_string}`,
+        },
+        'query-input': 'required name=search_term_string',
+      },
+    },
+    {
+      '@type': 'Dataset',
+      '@id': `${SITE_CONFIG.url}/#dataset`,
+      name: `${SITE_CONFIG.name} Dataset`,
+      description:
+        'A comprehensive, community-maintained dataset of companies and projects in the eBPF ecosystem, covering networking, observability, security, and profiling.',
+      url: SITE_CONFIG.url,
+      distribution: [
+        {
+          '@type': 'DataDownload',
+          encodingFormat: 'application/json',
+          contentUrl: `${SITE_CONFIG.url}/api/items`,
+        },
+        {
+          '@type': 'DataDownload',
+          encodingFormat: 'text/plain',
+          contentUrl: `${SITE_CONFIG.url}/llms-full.txt`,
+          name: 'LLM-optimised full dataset',
+        },
+      ],
+      license: 'https://www.apache.org/licenses/LICENSE-2.0',
+      creator: {
+        '@type': 'Organization',
+        name: 'eBPF Community',
+        url: 'https://ebpf.io',
+      },
+      keywords: [
+        'eBPF',
+        'BPF',
+        'Linux kernel',
+        'networking',
+        'observability',
+        'security',
+        'profiling',
+      ],
+      inLanguage: 'en',
+    },
+  ],
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -103,6 +166,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={inter.variable}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </head>
       <body className="antialiased">{children}</body>
     </html>
   );

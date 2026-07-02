@@ -42,9 +42,9 @@ export default async function HomePage({ searchParams }: HomePageProps) {
 }
 
 export const metadata = {
-  title: 'eBPF Landscape',
+  title: 'eBPF Landscape - Browse eBPF Tools, Projects & Resources',
   description:
-    'Discover the comprehensive ecosystem of eBPF tools, projects, and resources. Explore networking, security, observability, and performance solutions built with eBPF technology.',
+    'Browse eBPF tools, companies and projects spanning networking, observability, security and profiling. Community-maintained directory of the eBPF ecosystem.',
   keywords: [
     'eBPF tools',
     'eBPF projects',
@@ -59,9 +59,9 @@ export const metadata = {
     'BPF tools',
   ],
   openGraph: {
-    title: 'eBPF Landscape - Comprehensive Tools & Resources',
+    title: 'eBPF Landscape - Browse eBPF Tools, Projects & Resources',
     description:
-      'Discover the comprehensive ecosystem of eBPF tools, projects, and resources. Explore networking, security, observability, and performance solutions.',
+      'Browse eBPF tools, companies and projects spanning networking, observability, security and profiling. Community-maintained directory of the eBPF ecosystem.',
     url: SITE_CONFIG.url,
     type: 'website',
     images: [
@@ -69,15 +69,15 @@ export const metadata = {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'eBPF Landscape - Comprehensive tools and resources',
+        alt: 'eBPF Landscape - Browse eBPF tools, projects and resources',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'eBPF Landscape - Comprehensive Tools & Resources',
+    title: 'eBPF Landscape - Browse eBPF Tools, Projects & Resources',
     description:
-      'Discover the comprehensive ecosystem of eBPF tools, projects, and resources.',
+      'Browse eBPF tools, companies and projects spanning networking, observability, security and profiling.',
     images: ['/og-image.png'],
   },
   alternates: {

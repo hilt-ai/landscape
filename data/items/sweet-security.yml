@@ -1,7 +1,7 @@
 slug: sweet-security
 company: Sweet Security
 category: ['Security']
-description: 'eBPF-based runtime security and threat detection platform'
+description: 'Sweet Security is an eBPF-based runtime security platform for cloud and AI. Sweet enables security teams to proactively uncover attack paths, remediate what matters, and stop threats in real time'
 website: 'https://sweet.security'
 github_repo: 'https://github.com/sweet-security'
 crunchbase: https://www.crunchbase.com/organization/sweet-security

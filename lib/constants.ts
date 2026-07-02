@@ -2,10 +2,16 @@ export const SITE_CONFIG = {
   name: 'eBPF Landscape',
   description:
     'A comprehensive landscape of eBPF tools, projects, and resources',
-  url: 'https://ebpf-landscape.netlify.app',
-  github: 'https://github.com/isovalent/mktg-ebpf-landscape',
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://ebpflandscape.netlify.app',
+  github: 'https://github.com/ebpffoundation/landscape',
   twitter: '@ebpf_io',
-} as const;
+} satisfies {
+  name: string;
+  description: string;
+  url: string;
+  github: string;
+  twitter: string;
+};
 
 export const BREAKPOINTS = {
   sm: 640,

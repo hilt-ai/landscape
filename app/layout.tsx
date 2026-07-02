@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
+import { SITE_CONFIG } from '@/lib/constants';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -9,7 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://ebpf-landscape.netlify.app'),
+  metadataBase: new URL(SITE_CONFIG.url),
   title: {
     default: 'eBPF Landscape',
     template: '%s | eBPF Landscape',
@@ -47,7 +48,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://ebpf-landscape.netlify.app',
+    url: SITE_CONFIG.url,
     siteName: 'eBPF Landscape',
     title: 'eBPF Landscape',
     description:
@@ -82,7 +83,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: 'https://ebpf-landscape.netlify.app',
+    canonical: SITE_CONFIG.url,
   },
   category: 'technology',
   icons: {

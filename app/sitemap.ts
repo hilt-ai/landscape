@@ -1,7 +1,8 @@
 import { MetadataRoute } from 'next';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://ebpf-landscape.netlify.app';
+  const baseUrl = SITE_CONFIG.url;
   const currentDate = new Date().toISOString();
 
   return [

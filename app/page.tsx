@@ -6,6 +6,7 @@ import {
 import { parseSearchParams } from '@/lib/url-state';
 import { LandscapeClient } from '@/components/LandscapeClient';
 import { ClientLayout } from '@/components/ClientLayout';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const dynamic = 'force-dynamic';
 
@@ -61,7 +62,7 @@ export const metadata = {
     title: 'eBPF Landscape - Comprehensive Tools & Resources',
     description:
       'Discover the comprehensive ecosystem of eBPF tools, projects, and resources. Explore networking, security, observability, and performance solutions.',
-    url: 'https://ebpf-landscape.netlify.app',
+    url: SITE_CONFIG.url,
     type: 'website',
     images: [
       {
@@ -80,6 +81,6 @@ export const metadata = {
     images: ['/og-image.png'],
   },
   alternates: {
-    canonical: 'https://ebpf-landscape.netlify.app',
+    canonical: SITE_CONFIG.url,
   },
 };

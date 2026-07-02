@@ -116,7 +116,7 @@ Without an API key, the dashboard displays realistic mock data for development a
 
 ## Contributing
 
-See the [Contribute page](https://ebpf-landscape.netlify.app/contribute) for detailed information on how to add new items to the landscape.
+See the [Contribute page](https://ebpflandscape.netlify.app/contribute) for detailed information on how to add new items to the landscape.
 
 ## Technology Stack
 

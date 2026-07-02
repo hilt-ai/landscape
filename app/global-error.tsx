@@ -89,7 +89,7 @@ export default function GlobalError({ error, reset }: GlobalErrorProps) {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="https://github.com/isovalent/mktg-ebpf-landscape/issues"
+                    href="https://github.com/ebpffoundation/landscape/issues"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center px-4 py-2 bg-stone-900 text-white rounded-lg hover:bg-stone-800 transition-colors"

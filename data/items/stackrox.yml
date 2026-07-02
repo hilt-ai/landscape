@@ -1,0 +1,16 @@
+slug: stackrox
+company: StackRox
+category: ['Security']
+description: 'Kubernetes security platform with eBPF-based runtime protection'
+website: 'https://stackrox.com'
+github_repo: 'https://github.com/stackrox'
+linkedin: 'https://linkedin.com/company/stackrox'
+location: 'United States'
+year_founded: 2014
+funding_status: 'Acquired'
+acquired:
+  by: Red Hat
+  year: 2021
+  url: https://www.redhat.com/en/blog/red-hat-closes-acquisition-stackrox
+crunchbase: 'https://crunchbase.com/organization/stackrox'
+added: '2024-01-15'

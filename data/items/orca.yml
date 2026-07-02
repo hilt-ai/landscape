@@ -1,0 +1,12 @@
+slug: orca
+company: Orca Security
+category: ['Security']
+description: 'Cloud security company using an eBPF-based sensor for runtime visibility, protection, and dynamic reachability analysis across multi-cloud and hybrid environments'
+website: 'https://orca.security/'
+github_repo: https://github.com/orcasecurity
+linkedin: https://www.linkedin.com/company/orca-security
+blog: https://orca.security/resources/blog/
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/orca-security'
+year_founded: 2019
+funding_status: 'Private'

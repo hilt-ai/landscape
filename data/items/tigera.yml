@@ -1,0 +1,13 @@
+slug: tigera
+company: 'Tigera'
+category: ['Networking', 'Observability']
+description: 'Unified networking, network security, and observability for Kubernetes'
+website: 'https://www.tigera.io'
+github_repo: 'https://github.com/projectcalico'
+location: 'United States'
+year_founded: 2016
+crunchbase: 'https://www.crunchbase.com/organization/tigera'
+linkedin: 'https://www.linkedin.com/company/tigera'
+blog: 'https://www.tigera.io/blog'
+contact: 'hello@tigera.io'
+funding_status: 'Series B'

@@ -1,0 +1,13 @@
+slug: oracle
+company: 'Oracle'
+category: ['End User']
+status: ['eBPF Contributor']
+description: 'Database and cloud services'
+website: 'https://www.oracle.com/'
+github_repo: 'https://github.com/oracle'
+location: 'United States'
+blog: https://blogs.oracle.com/
+year_founded: 1977
+crunchbase: 'https://www.crunchbase.com/organization/oracle'
+linkedin: 'https://www.linkedin.com/company/oracle/'
+funding_status: 'Public'

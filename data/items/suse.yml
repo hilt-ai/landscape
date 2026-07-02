@@ -1,0 +1,12 @@
+slug: suse
+company: SUSE
+category: ['Security']
+status: ['eBPF Contributor']
+description: 'Enterprise Linux and cloud-native platform using eBPF for kernel-level observability, performance monitoring, and security enforcement across SUSE Linux Enterprise and Rancher environments'
+website: 'https://www.suse.com/'
+github_repo: 'https://github.com/suse'
+linkedin: 'https://www.linkedin.com/company/suse/'
+location: 'Germany'
+crunchbase: 'https://www.crunchbase.com/organization/suse'
+year_founded: 1992
+funding_status: 'Public'

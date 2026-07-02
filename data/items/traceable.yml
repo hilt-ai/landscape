@@ -1,0 +1,16 @@
+slug: traceable
+company: Traceable
+category: ['Observability']
+description: 'API security and observability platform with eBPF-based monitoring'
+website: 'https://traceable.ai'
+github_repo: 'https://github.com/traceableai'
+linkedin: 'https://linkedin.com/company/traceable-ai'
+location: 'United States'
+year_founded: 2018
+funding_status: 'Acquired'
+crunchbase: 'https://crunchbase.com/organization/traceable'
+acquired:
+  by: Harness
+  year: 2024
+  url: https://www.prnewswire.com/news-releases/harness-and-traceable-announce-merger-to-shape-the-future-of-ai-driven-software-delivery-302371950.html
+added: '2025-10-05'

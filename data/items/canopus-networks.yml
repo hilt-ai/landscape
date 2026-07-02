@@ -1,0 +1,12 @@
+slug: canopus-networks
+company: 'Canopus Networks'
+category: ['Observability']
+description: 'Network observability platform using eBPF for deep packet inspection and network performance monitoring in cloud-native environments'
+website: 'https://canopusnetworks.com'
+github_repo: 'https://github.com/canopus-networks'
+location: 'Australia'
+year_founded: 2018
+crunchbase: 'https://www.crunchbase.com/organization/canopus-networks'
+linkedin: 'https://www.linkedin.com/company/canopus-networks'
+blog: 'https://canopusnetworks.com/blog'
+funding_status: 'Series A'

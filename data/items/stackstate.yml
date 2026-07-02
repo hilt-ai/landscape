@@ -1,0 +1,15 @@
+slug: stackstate
+company: StackState
+category: ['Observability']
+description: Observability platform using eBPF-driven kernel-level telemetry to automatically map service topologies, monitor infrastructure and applications, and correlate performance across clusters and clouds.
+website: https://stackstate.com
+linkedin: https://www.linkedin.com/company/stackstate/
+crunchbase: https://www.crunchbase.com/organization/stackstate
+location: 'Netherlands'
+year_founded: 2015
+funding_status:: Acquired
+acquired:
+  by: SUSE
+  year: 2024
+  url: https://www.suse.com/de-de/news-articles/2024/06/suse-acquires-stackstate/
+added: '2024-01-15'

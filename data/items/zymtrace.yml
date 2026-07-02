@@ -1,0 +1,10 @@
+slug: zymtrace
+company: Zymtrace
+category: ['Profiling']
+description: 'Continuous profiling platform using eBPF to provide deep, actionable visibility into CPU and GPU workloads'
+website: 'https://zymtrace.com/'
+github_repo: 'https://github.com/zystem-io'
+linkedin: 'https://www.linkedin.com/company/zymtraceai/'
+location: 'United States'
+year_founded: 2024
+funding_status: 'Private'

@@ -1,0 +1,15 @@
+slug: plumgrid
+company: PLUMgrid
+category: ['Networking']
+description: 'SDN platform leveraging eBPF to enable distributed, programmable networking, tracing, and security functions in virtualized and containerized clouds'
+website: 'https://www.plumgrid.com/'
+linkedin: 'https://www.linkedin.com/company/plumgrid/'
+location: 'United States'
+crunchbase: https://www.crunchbase.com/organization/plumgrid
+year_founded: 2011
+funding_status: 'Acquired'
+acquired:
+  by: VMware
+  year: 2016
+  url: https://www.sdxcentral.com/news/vmware-acquires-employees-assets-of-plumgrid/
+  amount: Undisclosed

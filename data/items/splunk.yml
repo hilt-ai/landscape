@@ -1,0 +1,11 @@
+slug: splunk
+company: Splunk
+category: ['Observability', 'Security']
+description: 'Observability platform using eBPF to collect high-fidelity network, system, and application telemetry for real-time performance and security insights'
+website: 'https://www.splunk.com/'
+github_repo: 'https://github.com/splunk'
+linkedin: 'https://www.linkedin.com/company/splunk/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/splunk'
+year_founded: 2003
+funding_status: 'Acquired'

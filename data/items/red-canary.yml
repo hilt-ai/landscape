@@ -1,0 +1,17 @@
+slug: red-canary
+company: Red Canary
+category: ['Security']
+description: 'Managed detection and response platform with eBPF-based monitoring'
+website: 'https://redcanary.com'
+linkedin: 'https://linkedin.com/company/red-canary'
+location: 'United States'
+github: 'https://github.com/redcanaryco'
+blog: 'https://redcanary.com/resources-center/category/blog/'
+year_founded: 2013
+funding_status: 'Acquired'
+crunchbase: 'https://crunchbase.com/organization/red-canary'
+added: '2024-01-15'
+acquired:
+  by: Zscaler
+  year: 2025
+  url: https://www.crn.com/news/security/2025/zscaler-completes-red-canary-acquisition-for-major-secops-push

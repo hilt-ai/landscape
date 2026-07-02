@@ -1,0 +1,15 @@
+slug: cmd
+company: 'Cmd'
+category: ['Security']
+description: 'Linux security platform using eBPF for real-time process monitoring, threat detection, and security enforcement'
+location: 'United States'
+year_founded: 2019
+crunchbase: https://www.crunchbase.com/organization/cmd
+website: https://cmd.com/
+linkedin: https://www.linkedin.com/company/cmdsecurity/
+funding_status: 'Acquired'
+acquired:
+  by: Elastic
+  year: 2021
+  url: https://techcrunch.com/2021/08/25/elastic-acquisition-spree-continues-as-it-acquires-security-startup-cmd/
+added: '2025-10-05'

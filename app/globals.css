@@ -1,0 +1,84 @@
+@import 'tailwindcss';
+
+:root {
+  --background: #ffffff;
+  --foreground: #000000;
+  --muted: #f5f5f5;
+  --muted-foreground: #666666;
+  --border: #e5e5e5;
+  --accent: #ffe020;
+  --accent-foreground: #000000;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  background: #ffffff;
+  color: #000000;
+  font-family: var(--font-sans);
+  font-feature-settings:
+    'rlig' 1,
+    'calt' 1;
+}
+
+/* Focus styles for accessibility */
+*:focus-visible {
+  outline: none;
+  box-shadow:
+    0 0 0 2px var(--accent),
+    0 0 0 4px var(--background);
+}
+
+/* Skip link for accessibility */
+.skip-link {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.skip-link:focus {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  z-index: 50;
+  padding: 0.5rem 1rem;
+  background: var(--accent);
+  color: var(--accent-foreground);
+  border-radius: 0.375rem;
+  width: auto;
+  height: auto;
+  overflow: visible;
+}
+
+/* Cross-browser select styling */
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: none;
+}
+
+/* Ensure consistent select styling across browsers */
+select::-ms-expand {
+  display: none;
+}
+
+/* Safari specific fixes */
+@supports (-webkit-appearance: none) {
+  select {
+    -webkit-appearance: none;
+    background-image: none;
+  }
+}

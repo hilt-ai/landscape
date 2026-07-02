@@ -1,0 +1,12 @@
+slug: google
+company: Google
+status: ['Platinum Member', 'eBPF Contributor']
+category: ['Networking', 'Security', 'Observability']
+description: 'Infrastructure and cloud services provider using eBPF for packet processing, security auditing, and performance monitoring'
+website: 'https://www.google.com/'
+github_repo: 'https://github.com/google'
+linkedin: 'https://www.linkedin.com/company/google/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/google'
+year_founded: 1998
+funding_status: 'Public'

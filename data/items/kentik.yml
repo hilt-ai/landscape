@@ -1,0 +1,13 @@
+slug: kentik
+company: Kentik
+category: ['Observability']
+description: 'Network observability platform with eBPF-based traffic analysis'
+website: 'https://kentik.com'
+github: https://github.com/kentik/
+linkedin: 'https://linkedin.com/company/kentik'
+location: 'United States'
+blog: https://www.kentik.com/blog/
+year_founded: 2014
+funding_status: 'Series C'
+crunchbase: 'https://crunchbase.com/organization/kentik'
+added: '2024-01-15'

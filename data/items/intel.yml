@@ -1,0 +1,12 @@
+slug: intel
+company: Intel
+status: ['Member']
+category: ['End User']
+description: 'Hardware and infrastructure firm leveraging eBPF and XDP offload for high-performance packet processing, telemetry, and kernel-level observability across Linux network drivers'
+website: 'https://www.intel.com/'
+github_repo: 'https://github.com/intel'
+linkedin: 'https://www.linkedin.com/company/intel-corporation/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/intel'
+year_founded: 1968
+funding_status: 'Public'

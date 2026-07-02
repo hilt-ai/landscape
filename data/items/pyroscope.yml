@@ -1,0 +1,16 @@
+slug: pyroscope
+company: Pyroscope
+category: ['Observability', 'Profiling']
+description: 'Continuous profiling platform using eBPF (and language-specific agents) to collect low-overhead stack traces and surface application performance insights'
+website: 'https://pyroscope.io/'
+github_repo: 'https://github.com/grafana/pyroscope'
+linkedin: 'https://www.linkedin.com/company/pyroscope/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/pyroscope'
+year_founded: 2021
+funding_status: 'Acquired'
+acquired:
+  by: Grafana
+  year: 2023
+  url: http://techcrunch.com/2023/03/15/grafana-acquires-pyroscope-and-merges-it-with-its-phlare-continuous-profiling-database/
+added: '2025-10-05'

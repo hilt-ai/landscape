@@ -1,0 +1,12 @@
+slug: netscout
+company: Netscout Systems
+category: ['Observability']
+description: 'Observability and network performance platform using eBPF-based sensors (KlearSight) to extract and analyze packet/context data in Kubernetes and cloud environments'
+website: 'https://www.netscout.com/'
+github_repo: 'https://github.com/netscout'
+blog: https://www.netscout.com/blog
+linkedin: 'https://www.linkedin.com/company/netscout/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/netscout-systems'
+year_founded: 1984
+funding_status: 'Series B'

@@ -1,0 +1,9 @@
+slug: metoro
+company: 'Metoro'
+category: ['Observability']
+description: 'Metoro captures L7 protocol traffic and intercepts TLS-encrypted data using eBPF'
+website: 'https://metoro.io/'
+location: 'United States'
+year_founded: 2023
+linkedin: 'https://www.linkedin.com/company/metoroai/'
+funding_status: 'Pre-Seed'

@@ -1,0 +1,15 @@
+slug: nyx
+company: Nyx Software Security Solutions
+category: ['Security']
+description: 'Runtime security company using eBPF-based function-level instrumentation to detect which application functions are executed and enable precise threat detection'
+website: 'https://www.nyxsecuritysolutions.com/'
+crunchbase: https://www.crunchbase.com/organization/nyx-security
+linkedin: https://www.linkedin.com/company/nyx-software-security-solutions/
+location: 'Israel'
+year_founded: 2024
+funding_status: 'Acquired'
+acquired:
+  by: Upwind
+  year: 2025
+  url: https://www.businesswire.com/news/home/20250428869233/en/Upwind-Acquires-Nyx-To-Dominate-Application-Runtime-Security
+added: '2025-10-05'

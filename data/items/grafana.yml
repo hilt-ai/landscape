@@ -1,0 +1,13 @@
+slug: grafana
+company: 'Grafana'
+category: ['Profiling', 'Observability']
+description: 'Open source analytics and monitoring platform with eBPF-based profiling capabilities through Pyroscope integration for continuous profiling'
+website: 'https://grafana.com'
+github_repo: 'https://github.com/grafana'
+location: 'United States'
+year_founded: 2014
+crunchbase: 'https://www.crunchbase.com/organization/grafana-labs'
+linkedin: 'https://www.linkedin.com/company/grafana-labs'
+blog: 'https://grafana.com/blog'
+contact: 'hello@grafana.com'
+funding_status: 'Series C'

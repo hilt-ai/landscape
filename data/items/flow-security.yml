@@ -1,0 +1,16 @@
+slug: flow-security
+company: 'Flow Security'
+category: ['Security']
+description: 'Data security platform using eBPF for real-time data flow monitoring and protection across cloud environments'
+website: 'https://flowsecurity.com'
+github_repo: 'https://github.com/flow-security'
+location: 'Israel'
+year_founded: 2021
+crunchbase: 'https://www.crunchbase.com/organization/flow-security'
+linkedin: 'https://www.linkedin.com/company/flow-security'
+funding_status: 'Acquired'
+acquired:
+  by: CrowdStrike
+  year: 2024
+  url: https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-flow-security-redefines-modern-cloud-data-security/
+added: '2025-10-05'

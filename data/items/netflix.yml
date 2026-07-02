@@ -1,0 +1,12 @@
+slug: netflix
+company: Netflix
+status: ['Platinum Member']
+category: ['End User']
+description: 'Streaming infrastructure and platform company using eBPF for real-time TCP flow logging, IP-to-workload attribution, and resource scheduling telemetry'
+website: 'https://netflix.com/'
+github_repo: https://github.com/netflix
+linkedin: 'https://www.linkedin.com/company/netflix/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/netflix'
+year_founded: 1997
+funding_status: 'Public'

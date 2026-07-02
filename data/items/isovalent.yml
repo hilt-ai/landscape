@@ -1,0 +1,19 @@
+slug: isovalent
+company: 'Isovalent'
+category: ['Networking', 'Security', 'Observability']
+status: ['Platinum Member', 'eBPF Contributor']
+description: 'Creator of Cilium, the leading eBPF-based networking, security, and observability platform for cloud-native applications'
+website: 'https://isovalent.com'
+github_repo: 'https://github.com/cilium'
+location: 'United States'
+year_founded: 2016
+crunchbase: 'https://www.crunchbase.com/organization/isovalent'
+linkedin: 'https://www.linkedin.com/company/isovalent'
+blog: 'https://isovalent.com/blog'
+contact: 'hello@isovalent.com'
+funding_status: 'Acquired'
+acquired:
+  by: Cisco
+  year: 2024
+  url: https://investor.cisco.com/news/news-details/2024/Cisco-Completes-Acquisition-of-Isovalent-to-Define-the-Future-of-Multicloud-Networking-and-Security/default.aspx
+  amount: Undisclosed

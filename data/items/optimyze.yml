@@ -1,0 +1,18 @@
+slug: optimyze
+company: 'Optimyze'
+category: ['Profiling']
+description: 'Performance optimization platform leveraging eBPF for continuous profiling and performance analysis to help developers identify and fix performance issues'
+website: 'https://optimyze.com'
+github_repo: 'https://github.com/optimyze'
+location: 'United States'
+year_founded: 2020
+crunchbase: 'https://www.crunchbase.com/organization/optimyze'
+linkedin: 'https://www.linkedin.com/company/optimyze'
+blog: 'https://optimyze.com/blog'
+contact: 'hello@optimyze.com'
+funding_status: 'Acquired'
+acquired:
+  by: Elastic
+  year: 2021
+  url: https://www.businesswire.com/news/home/20211102006144/en/Elastic-Completes-the-Acquisition-of-Optimyze
+added: '2025-10-05'

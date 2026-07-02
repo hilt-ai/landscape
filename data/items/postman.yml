@@ -1,0 +1,12 @@
+slug: postman
+company: Postman
+category: ['Observability']
+description: 'API platform that leverages eBPF to monitor API traffic, infer endpoint structures, and analyze data flows without changing application code'
+website: 'https://www.postman.com/'
+github_repo: 'https://github.com/postmanlabs'
+linkedin: 'https://www.linkedin.com/company/postman-platform/'
+blog: https://blog.postman.com/
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/postman'
+year_founded: 2014
+funding_status: 'Series D'

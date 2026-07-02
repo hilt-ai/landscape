@@ -1,0 +1,11 @@
+slug: miggo
+company: Miggo Security
+category: ['Security']
+description: 'Application Detection & Response (ADR) platform using eBPF-powered sensors to gain runtime visibility, detect, and respond to threats in live applications'
+website: 'https://www.miggo.io/'
+linkedin: 'https://www.linkedin.com/company/miggo-security'
+crunchbase: https://www.crunchbase.com/organization/miggo-security
+blog: https://www.miggo.io/blog
+location: 'Israel'
+year_founded: 2023
+funding_status: 'Series A'

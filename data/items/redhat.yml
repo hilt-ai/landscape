@@ -1,0 +1,14 @@
+slug: redhat
+company: Red Hat
+category: ['Observability']
+status: ['eBPF Contributor']
+description: 'Enterprise Linux and cloud solutions with eBPF-based observability tools'
+website: 'https://redhat.com'
+github_repo: 'https://github.com/redhat'
+linkedin: 'https://linkedin.com/company/red-hat'
+location: 'United States'
+blog: https://www.redhat.com/en/blog
+year_founded: 1993
+funding_status: 'Public'
+crunchbase: 'https://crunchbase.com/organization/red-hat'
+added: '2024-01-15'

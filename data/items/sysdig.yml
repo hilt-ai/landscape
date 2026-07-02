@@ -1,0 +1,12 @@
+slug: sysdig
+company: Sysdig
+category: ['Security']
+description: 'Cloud-native security and observability platform with eBPF-based monitoring'
+website: 'https://sysdig.com'
+github_repo: 'https://github.com/sysdiglabs'
+linkedin: 'https://linkedin.com/company/sysdig'
+location: 'United States'
+year_founded: 2013
+funding_status: 'Series F'
+crunchbase: 'https://crunchbase.com/organization/sysdig'
+added: '2024-01-15'

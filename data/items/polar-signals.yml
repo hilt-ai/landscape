@@ -1,0 +1,13 @@
+slug: polar-signals
+company: 'Polar Signals'
+category: ['Profiling']
+description: 'Continuous profiling platform for production systems using eBPF-based profiling to identify performance bottlenecks and optimize application performance'
+website: 'https://www.polarsignals.com'
+github_repo: 'https://github.com/polarsignals'
+location: 'Germany'
+year_founded: 2020
+crunchbase: 'https://www.crunchbase.com/organization/polar-signals'
+linkedin: 'https://www.linkedin.com/company/polar-signals'
+blog: 'https://www.polarsignals.com/blog'
+contact: 'hello@polarsignals.com'
+funding_status: 'Series A'

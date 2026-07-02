@@ -1,0 +1,18 @@
+categories:
+  - name: 'Networking'
+    description: 'Companies providing eBPF-based networking solutions for load balancing, firewalling, and traffic management'
+
+  - name: 'Observability'
+    description: 'Companies offering eBPF-based observability tools for system monitoring, tracing, and performance analysis'
+
+  - name: 'Profiling'
+    description: 'Companies developing eBPF-based profiling and debugging tools'
+
+  - name: 'Security'
+    description: 'Companies leveraging eBPF for security solutions including threat detection and prevention'
+
+  - name: 'End User'
+    description: 'Companies that are end user of eBPF and contributors to the eBPF upstream'
+
+  - name: 'Other'
+    description: 'Companies working with eBPF in other domains or providing general eBPF-related services'

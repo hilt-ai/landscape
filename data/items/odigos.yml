@@ -1,0 +1,13 @@
+slug: odigos
+company: Odigos
+category: ['Observability']
+description: 'Uses eBPF to auto-generate OpenTelemetry traces with low overhead for services without manual instrumentation'
+website: 'https://odigos.io'
+github_repo: 'https://github.com/odigos-io/odigos'
+linkedin: https://www.linkedin.com/company/odigoss/
+crunchbase: 'https://www.crunchbase.com/organization/keyval'
+blog: https://odigos.io/blog
+location: 'Boston'
+year_founded: 2023
+funding_status: 'Series A'
+added: '2024-01-15'

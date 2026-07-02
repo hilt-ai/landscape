@@ -1,0 +1,13 @@
+slug: nvidia
+company: Nvidia
+category: ['End User']
+status: ['eBPF Contributor']
+description: 'AI and computing platform using eBPF for GPU-aware observability, system profiling, and performance optimization across data center and cloud environments'
+website: 'https://www.nvidia.com/en-us/'
+github_repo: 'https://github.com/nvidia'
+linkedin: 'https://www.linkedin.com/company/nvidia/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/nvidia'
+year_founded: 1993
+funding_status: 'Public'
+added: '2024-01-15'

@@ -1,0 +1,11 @@
+slug: unvariance
+company: Unvariance
+category: ['Other']
+description: 'Platform leveraging to detect and mitigate memory-subsystem interference ("noisy neighbors") between containers, reducing tail latency and improving utilization'
+website: 'https://unvariance.com'
+github_repo: 'https://github.com/unvariance'
+linkedin: 'https://www.linkedin.com/company/unvariance/'
+location: 'United States'
+crunchbase: null
+year_founded: null
+funding_status: 'Private'

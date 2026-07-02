@@ -1,0 +1,14 @@
+slug: aws
+company: AWS
+status: ['eBPF Contributor']
+category: ['Networking']
+description: 'Cloud infrastructure and security platform leveraging eBPF for real-time observability, threat detection, and performance monitoring across managed services'
+website: 'https://aws.amazon.com/'
+github_repo: 'https://github.com/aws'
+crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+blog: https://aws.amazon.com/blogs/
+linkedin: 'https://www.linkedin.com/company/amazon-web-services/'
+location: 'United States'
+year_founded: 2002
+funding_status: 'Public'
+added: '2024-01-15'

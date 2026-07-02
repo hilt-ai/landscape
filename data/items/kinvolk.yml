@@ -1,0 +1,16 @@
+slug: kinvolk
+company: Kinvolk
+category: ['Observability']
+description: 'Open-source infrastructure company behind Inspektor Gadget, an eBPF-based inspection and observability toolkit for Kubernetes and cloud-native systems'
+website: 'https://kinvolk.io/'
+github_repo: 'https://github.com/kinvolk'
+linkedin: 'https://www.linkedin.com/company/kinvolk/'
+location: 'Germany'
+crunchbase: 'https://www.crunchbase.com/organization/kinvolk-gmbh'
+year_founded: 2015
+funding_status: 'Acquired'
+acquired:
+  by: Microsoft
+  year: 2021
+  url: https://azure.microsoft.com/en-us/blog/microsoft-acquires-kinvolk-to-accelerate-containeroptimized-innovation/
+added: '2025-10-05'

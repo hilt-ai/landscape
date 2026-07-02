@@ -1,0 +1,18 @@
+slug: seekret
+company: 'Seekret'
+category: ['Observability']
+description: 'API observability platform using eBPF for comprehensive API monitoring, security analysis, and performance optimization'
+website: 'https://seekret.io'
+github_repo: 'https://github.com/seekret'
+location: 'Israel'
+year_founded: 2021
+crunchbase: 'https://www.crunchbase.com/organization/seekret'
+linkedin: 'https://www.linkedin.com/company/seekret'
+blog: 'https://seekret.io/blog'
+contact: 'hello@seekret.io'
+funding_status: 'Acquired'
+acquired:
+  by: Datadog
+  year: 2021
+  url: https://www.prnewswire.com/news-releases/datadog-acquires-seekret-to-make-api-observability-accessible-301599589.html
+added: '2025-10-05'

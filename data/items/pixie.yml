@@ -1,0 +1,18 @@
+slug: pixie
+company: 'Pixie'
+category: ['Observability']
+description: 'Open source observability platform for Kubernetes using eBPF for automatic instrumentation and real-time debugging of applications'
+website: 'https://pixielabs.ai'
+github_repo: 'https://github.com/pixie-io/pixie'
+location: 'United States'
+year_founded: 2018
+crunchbase: 'https://www.crunchbase.com/organization/pixie-labs'
+linkedin: 'https://www.linkedin.com/company/pixie-labs'
+blog: 'https://blog.pixielabs.ai'
+contact: 'hello@pixielabs.ai'
+funding_status: 'Acquired'
+acquired:
+  by: New Relic
+  year: 2021
+  url: https://techcrunch.com/2020/12/10/new-relic-acquires-kubernetes-observability-platform-pixie-labs/
+added: '2025-10-05'

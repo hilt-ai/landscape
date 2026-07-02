@@ -1,0 +1,14 @@
+slug: alibaba
+company: Alibaba
+category: ['Networking']
+status: ['eBPF Contributor']
+description: 'Cloud and e-commerce platform using eBPF for large-scale observability, network performance optimization, and real-time security monitoring across its cloud infrastructure'
+website: 'https://www.alibaba.com/'
+github_repo: 'https://github.com/ALIBABA'
+linkedin: 'https://www.linkedin.com/company/alibaba-com/'
+blog: 'https://alibabacloud.home.blog/'
+location: 'China'
+crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+year_founded: 1999
+funding_status: 'Public'
+added: '2024-01-15'

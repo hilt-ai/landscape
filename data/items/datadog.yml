@@ -1,0 +1,14 @@
+slug: datadog
+company: Datadog
+category: ['Profiling', 'Observability', 'Security']
+status: ['Member']
+description: 'Observability and security platform using eBPF to automatically discover services, capture kernel-level telemetry and enable real-time monitoring and detection without code changes'
+website: 'https://datadoghq.com'
+github_repo: 'https://github.com/DataDog'
+linkedin: 'https://linkedin.com/company/datadog'
+blog: https://www.datadoghq.com/blog/
+location: 'United States'
+year_founded: 2010
+funding_status: 'Public'
+crunchbase: 'https://crunchbase.com/organization/datadog'
+added: '2024-01-15'

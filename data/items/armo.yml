@@ -1,0 +1,12 @@
+slug: armo
+company: ARMO
+category: ['Security']
+description: 'Kubernetes security platform with eBPF-based runtime monitoring'
+website: 'https://armosec.io'
+github_repo: 'https://github.com/armosec'
+linkedin: 'https://linkedin.com/company/armosec'
+crunchbase: https://www.crunchbase.com/organization/cyber-armor
+location: 'Israel'
+year_founded: 2018
+funding_status: 'Series A'
+added: '2024-01-15'

@@ -1,0 +1,12 @@
+slug: snyk
+company: Snyk
+category: ['Security']
+description: 'Developer-first security platform with eBPF-based runtime monitoring'
+website: 'https://snyk.io'
+github_repo: 'https://github.com/snyk'
+linkedin: 'https://linkedin.com/company/snyk'
+location: 'United Kingdom'
+year_founded: 2015
+funding_status: 'Series F'
+crunchbase: 'https://crunchbase.com/organization/snyk'
+added: '2024-01-15'

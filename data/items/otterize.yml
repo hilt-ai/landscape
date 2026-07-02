@@ -1,0 +1,16 @@
+slug: otterize
+company: Otterize
+category: ['Security']
+description: 'Workload identity and access management platform using eBPF for visibility into data flows and intent-based access control in Kubernetes environments'
+website: 'https://www.otterize.com/'
+github_repo: 'https://github.com/otterize'
+linkedin: 'https://www.linkedin.com/company/otterize/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/otterize'
+year_founded: 2022
+funding_status: 'Acquired'
+acquired:
+  by: Cyera
+  year: 2025
+  url: https://www.cyera.com/de/press-releases/cyera-acquires-otterize-a-platform-for-securing-cloud-native-non-human-identities-and-data-flows-to-expand-its-data-security-platform
+added: '2025-10-05'

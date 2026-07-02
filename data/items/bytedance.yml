@@ -1,0 +1,13 @@
+slug: bytedance
+company: Bytedance
+status: ['eBPF Contributor']
+category: ['End User']
+description: 'Cloud and content platform using eBPF for high-performance observability, network optimization, and real-time security monitoring across large-scale production systems'
+website: 'https://www.bytedance.com/'
+github_repo: 'https://github.com/bytedance'
+linkedin: 'https://www.linkedin.com/company/bytedance/'
+location: 'China'
+crunchbase: 'https://www.crunchbase.com/organization/bytedance'
+year_founded: 2012
+funding_status: 'Series E'
+added: '2024-01-15'

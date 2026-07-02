@@ -1,0 +1,12 @@
+slug: microsoft
+company: Microsoft
+category: ['Security', 'Observability', 'Networking']
+description: 'Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services'
+website: 'https://www.microsoft.com/'
+github_repo: 'https://github.com/microsoft/ebpf-for-windows'
+linkedin: 'https://www.linkedin.com/company/microsoft/'
+blog: https://blogs.microsoft.com/
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+year_founded: 1975
+funding_status: 'Public'

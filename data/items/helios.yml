@@ -1,0 +1,15 @@
+slug: helios
+company: Helios
+category: ['Security']
+description: 'eBPF-based runtime security and observability platform'
+website: 'https://helios.security'
+github_repo: 'https://github.com/helios'
+crunchbase: https://www.crunchbase.com/organization/helios-e9ff
+location: 'Israel'
+year_founded: 2022
+funding_status: 'Acquired'
+acquired:
+  by: Snyk
+  year: 2023
+  url: https://techcrunch.com/2024/01/16/snyk-acquires-helios-to-bolster-its-appsec-platform/
+added: '2025-10-05'

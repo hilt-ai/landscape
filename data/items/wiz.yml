@@ -1,0 +1,16 @@
+slug: wiz
+company: Wiz
+category: ['Security']
+description: 'Cloud security platform with eBPF-based runtime monitoring'
+website: 'https://wiz.io'
+github_repo: 'https://github.com/wiz'
+linkedin: 'https://linkedin.com/company/wiz'
+location: 'Israel'
+year_founded: 2020
+funding_status: 'Series D'
+crunchbase: 'https://crunchbase.com/organization/wiz'
+acquired:
+  by: Google
+  year: 2025
+  url: https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/
+added: '2025-10-05'

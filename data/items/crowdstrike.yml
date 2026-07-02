@@ -1,0 +1,12 @@
+slug: crowdstrike
+company: CrowdStrike
+status: ['Platinum Member']
+category: ['Security']
+description: 'Falcon platform leveraging eBPF for cloud workload telemetry and data-in-motion analysis to power real-time threat detection and response across containerized and cloud environments'
+website: 'https://www.crowdstrike.com/'
+github_repo: 'https://github.com/CrowdStrike'
+linkedin: 'https://www.linkedin.com/company/crowdstrike/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/crowdstrike'
+year_founded: 2011
+funding_status: 'Public'

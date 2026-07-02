@@ -1,0 +1,14 @@
+slug: flowmill
+company: Flowmill
+category: ['Observability']
+description: 'eBPF-based network security and monitoring platform'
+website: 'https://flowmill.com'
+github_repo: 'https://github.com/flowmill'
+location: 'United States'
+year_founded: 2020
+funding_status: 'Acquired'
+acquired:
+  by: Splunk
+  year: 2020
+  url: https://www.splunk.com/en_us/about-splunk/acquisitions/flowmill.html
+added: '2024-01-15'

@@ -1,0 +1,11 @@
+slug: garnet
+company: Garnet Labs
+category: ['Security']
+description: 'Runtime threat protection for Kubernetes workloads using an eBPF-based agent (Jibril) to detect and block malicious network, file, and execution behaviors'
+website: 'https://www.garnet.ai/'
+github_repo: 'https://github.com/garnet-org'
+linkedin: 'https://www.linkedin.com/company/garnetlabs/'
+location: 'Canada'
+crunchbase: 'https://www.crunchbase.com/organization/garnet-labs'
+year_founded: 2021
+funding_status: 'Seed'

@@ -1,0 +1,13 @@
+slug: nokia
+company: Nokia
+status: ['eBPF Contributor']
+category: ['End User']
+description: 'Telecommunications and network infrastructure company using eBPF for advanced network observability, performance optimization, and real-time traffic analysis across cloud and 5G systems'
+website: 'https://www.nokia.com/'
+github_repo: 'https://github.com/nokia'
+linkedin: 'https://www.linkedin.com/company/nokia/'
+location: 'Finland'
+crunchbase: 'https://www.crunchbase.com/organization/nokia'
+year_founded: 1865
+funding_status: 'Public'
+added: '2024-01-15'

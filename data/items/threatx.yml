@@ -1,0 +1,15 @@
+slug: threatx
+company: 'Threatx'
+category: ['Security']
+description: 'Changing the way APIs & Apps are built, secured, and operated by providing observability, prevention, and protection'
+website: 'https://www.threatx.com/'
+location: 'United States'
+year_founded: 2014
+crunchbase: 'https://www.crunchbase.com/organization/isovalent'
+linkedin: 'https://www.linkedin.com/company/threatx/'
+funding_status: 'Acquired'
+acquired:
+  by: A10 Networks
+  year: 2025
+  url: https://www.a10networks.com/news/press-releases/a10-networks-expands-its-cybersecurity-portfolio-with-acquisition-of-threatx-protect/
+  amount: Undisclosed

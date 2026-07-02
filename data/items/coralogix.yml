@@ -1,0 +1,11 @@
+slug: coralogix
+company: Coralogix
+category: ['Observability']
+description: 'Observability platform using eBPF-based auto-instrumentation for Kubernetes workloads to capture traces, logs, and metrics without code changes'
+website: 'https://coralogix.com/'
+github_repo: 'https://github.com/coralogix'
+linkedin: 'https://www.linkedin.com/company/coralogix/'
+location: 'Israel'
+crunchbase: 'https://www.crunchbase.com/organization/coralogix'
+year_founded: 2014
+funding_status: 'Series E'

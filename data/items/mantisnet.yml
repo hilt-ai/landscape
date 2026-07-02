@@ -1,0 +1,17 @@
+slug: mantisnet
+company: MantisNet
+category: ['Observability']
+description: 'Network observability and analytics platform with eBPF integration'
+website: 'https://mantisnet.com'
+github: https://github.com/mimetrix
+linkedin: 'https://linkedin.com/company/mantisnet'
+location: 'United States'
+blog: https://www.mantisnet.com/blog
+crunchbase: https://www.crunchbase.com/organization/mantis-networks
+year_founded: 2018
+funding_status: 'Acquired'
+acquired:
+  by: F5
+  year: 2025
+  url: https://www.f5.com/company/blog/f5-acquires-mantisnet-to-enhance-cloud-native-observability-in-the-f5-application-delivery-and-security-platform
+added: '2025-10-05'

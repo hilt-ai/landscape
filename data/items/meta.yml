@@ -1,0 +1,12 @@
+slug: meta
+company: Meta
+status: ['Platinum Member', 'eBPF Contributor']
+category: ['End User']
+description: 'Internet infrastructure company using eBPF-based Katran as a software-defined load balancer and in its Strobelight system for low-overhead profiling across production servers'
+website: 'https://www.meta.com/about/company-info/'
+github_repo: 'https://github.com/facebook'
+linkedin: 'https://www.linkedin.com/company/meta/'
+location: 'United States'
+crunchbase: 'https://www.crunchbase.com/organization/facebook'
+year_founded: 2004
+funding_status: 'Public'

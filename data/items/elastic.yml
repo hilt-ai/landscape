@@ -1,0 +1,12 @@
+slug: elastic
+company: Elastic
+category: ['Profiling', 'Observability', 'Security']
+description: 'Search and observability platform using eBPF-based continuous profiling and runtime security agents to unify logs, metrics, traces, and profiling for cloud-native systems'
+website: 'https://www.elastic.co/'
+github_repo: 'https://github.com/elastic'
+linkedin: 'https://www.linkedin.com/company/elastic/'
+blog: https://www.elastic.co/blog
+location: 'United States'
+crunchbase: 'https://www.linkedin.com/company/elastic-co/'
+year_founded: 2012
+funding_status: 'Public'

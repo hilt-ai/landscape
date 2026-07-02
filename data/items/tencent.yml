@@ -1,0 +1,13 @@
+slug: tencent
+company: Tencent
+status: ['eBPF Contributor']
+category: ['End User']
+description: 'Cloud and internet services platform using eBPF for network observability, performance tuning, and runtime security across its cloud and gaming infrastructure'
+website: 'https://www.tencent.com/'
+github_repo: 'https://github.com/tencent'
+linkedin: 'https://www.linkedin.com/company/tencentglobal/'
+location: 'China'
+crunchbase: 'https://www.crunchbase.com/organization/tencent'
+year_founded: 1998
+funding_status: 'Public'
+added: '2024-01-15'

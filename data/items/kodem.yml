@@ -1,0 +1,13 @@
+slug: kodem
+company: Kodem
+category: ['Security']
+description: 'Kodem is an application security company that uses eBPF to observe running code in real time, detecting, prioritizing, and defending against vulnerabilities based on how they actually execute in production'
+website: 'https://www.kodemsecurity.com/'
+github: https://github.com/kodemsec
+crunchbase: https://www.crunchbase.com/organization/kodem-security
+location: 'Israel'
+linkedin: https://www.linkedin.com/company/kodem/
+blog: https://www.kodemsecurity.com/resources
+year_founded: 2021
+funding_status: 'Series A'
+added: '2024-01-15'

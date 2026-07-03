@@ -1,7 +1,7 @@
 export const SITE_CONFIG = {
   name: 'eBPF Landscape',
   description:
-    'A comprehensive landscape of eBPF tools, projects, and resources',
+    'A comprehensive landscape of eBPF based companies',
   url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://ebpflandscape.netlify.app',
   github: 'https://github.com/ebpffoundation/landscape',
   twitter: '@ebpf_io',

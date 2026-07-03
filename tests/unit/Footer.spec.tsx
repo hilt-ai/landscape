@@ -17,7 +17,7 @@ describe('Footer', () => {
 
     expect(screen.getByAltText('eBPF Landscape')).toBeInTheDocument();
     expect(
-      screen.getByText(/A comprehensive landscape of eBPF tools/)
+      screen.getByText(/A comprehensive landscape of eBPF based companies/)
     ).toBeInTheDocument();
   });
 

@@ -1,10 +1,10 @@
 # eBPF Landscape
 
-A comprehensive directory of eBPF tools, projects, and resources. This project provides a modern, searchable interface for discovering eBPF-related technologies and organizations.
+A comprehensive directory of eBPF based companies. This project provides a modern, searchable interface for discovering eBPF-related technologies and organizations.
 
 ## Features
 
-- **Comprehensive Directory**: Browse eBPF tools, libraries, and projects
+- **Comprehensive Directory**: Browse eBPF companies
 - **Advanced Filtering**: Filter by status, membership, category, location, and more
 - **Multiple View Modes**: Grid, list, and card views for different browsing preferences
 - **Detailed Information**: Modal popups with comprehensive project details

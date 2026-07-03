@@ -16,12 +16,11 @@ export const metadata: Metadata = {
     template: '%s | eBPF Landscape',
   },
   description:
-    'A comprehensive directory of eBPF tools, projects and companies. Discover the ecosystem spanning networking, observability, security and profiling.',
+    'A comprehensive directory of eBPF based companies. Discover the ecosystem spanning networking, observability, security, profiling, and more.',
   keywords: [
     'eBPF',
     'landscape',
     'tools',
-    'projects',
     'resources',
     'networking',
     'security',
@@ -52,13 +51,13 @@ export const metadata: Metadata = {
     siteName: 'eBPF Landscape',
     title: 'eBPF Landscape',
     description:
-      'A comprehensive directory of eBPF tools, projects and companies spanning networking, observability, security and profiling.',
+      'A comprehensive directory of eBPF companies spanning networking, observability, security, and profiling.',
     images: [
       {
         url: '/social-preview.jpg',
         width: 1200,
         height: 630,
-        alt: 'eBPF Landscape - Community directory of eBPF tools and projects',
+        alt: 'eBPF Landscape - Community directory of eBPF companies',
       },
     ],
   },
@@ -68,7 +67,7 @@ export const metadata: Metadata = {
     creator: '@ebpfio',
     title: 'eBPF Landscape',
     description:
-      'A comprehensive directory of eBPF tools, projects and companies spanning networking, observability, security and profiling.',
+      'A comprehensive directory of eBPF companies spanning networking, observability, security and profiling.',
     images: ['/social-preview.jpg'],
   },
   robots: {
@@ -124,7 +123,7 @@ const jsonLd = {
       '@id': `${SITE_CONFIG.url}/#dataset`,
       name: `${SITE_CONFIG.name} Dataset`,
       description:
-        'A comprehensive, community-maintained dataset of companies and projects in the eBPF ecosystem, covering networking, observability, security, and profiling.',
+        'A comprehensive, community-maintained dataset of companies in the eBPF ecosystem, covering networking, observability, security, and profiling.',
       url: SITE_CONFIG.url,
       distribution: [
         {

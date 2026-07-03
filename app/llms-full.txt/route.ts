@@ -10,7 +10,7 @@ export function GET() {
   const lines: string[] = [
     `# ${SITE_CONFIG.name} — Full Dataset`,
     '',
-    `> Complete machine-readable dump of all ${items.length} entries in the eBPF Landscape as of build time. Each entry represents a company or project in the eBPF ecosystem.`,
+    `> Complete machine-readable dump of all ${items.length} entries in the eBPF Landscape as of build time. Each entry represents a company in the eBPF ecosystem.`,
     '',
     '## Categories',
     '',

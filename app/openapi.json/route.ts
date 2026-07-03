@@ -9,7 +9,7 @@ export function GET() {
       title: `${SITE_CONFIG.name} API`,
       version: '3.0.0',
       description:
-        'REST API for the eBPF Landscape — a community-maintained directory of companies and projects in the eBPF ecosystem.',
+        'REST API for the eBPF Landscape — a community-maintained directory of companies in the eBPF ecosystem.',
       contact: {
         url: SITE_CONFIG.github,
       },
@@ -25,7 +25,7 @@ export function GET() {
           operationId: 'listItems',
           summary: 'List all landscape entries',
           description:
-            'Returns the full list of eBPF ecosystem companies and projects, the ordered category list, and metadata.',
+            'Returns the full list of eBPF ecosystem companies, the ordered category list, and metadata.',
           responses: {
             '200': {
               description: 'Success',
@@ -119,7 +119,7 @@ export function GET() {
             },
             company: {
               type: 'string',
-              description: 'Full company or project name',
+              description: 'Full company name',
             },
             category: {
               type: 'array',

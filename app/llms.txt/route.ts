@@ -13,7 +13,7 @@ export function GET() {
 
   const content = `# ${SITE_CONFIG.name}
 
-> A comprehensive, community-maintained directory of ${itemCount} companies and projects in the eBPF ecosystem. eBPF (extended Berkeley Packet Filter) is a Linux kernel technology that enables safe, efficient programs to run in kernel space for networking, observability, security, and performance use cases.
+> A comprehensive, community-maintained directory of ${itemCount} companies in the eBPF ecosystem. eBPF is a Linux kernel technology that enables safe, efficient programs to run in kernel space for networking, observability, security, performance, and other use cases.
 
 ## Site
 

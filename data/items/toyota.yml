@@ -1,0 +1,12 @@
+slug: toyota
+company: Toyota
+status: ['Member']
+category: ['End User']
+description: 'Toyota uses eBPF in resource‑constrained environments such as embedded and automotive systems'
+website: 'https://www.toyota.com/'
+github_repo: 'https://github.com/TOYOTA'
+linkedin: 'https://www.linkedin.com/company/toyota/'
+location: 'Japan'
+crunchbase: 'https://www.crunchbase.com/organization/intel'
+year_founded: 1968
+funding_status: 'Public'

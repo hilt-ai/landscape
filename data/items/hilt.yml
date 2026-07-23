@@ -1,6 +1,6 @@
 slug: hilt
 company: Hilt
-category: ['Security', 'Observability']
+category: ['Security']
 description: 'Data movement governance platform that leverages eBPF to observe data movement, resolve it to a real identity and workload, and detect & contain anomalous behavior across clouds, endpoints, and networks'
 website: 'https://hilt.ai'
 linkedin: 'https://www.linkedin.com/company/hiltai'
